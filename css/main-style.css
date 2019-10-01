@@ -3,7 +3,7 @@
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
-    position: fixed;
+    position: absolute;
     background-position: center;
     top: 0;
     bottom: 0;
